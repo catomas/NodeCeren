@@ -24,7 +24,7 @@ export const initialData: SeedData = {
   products: [
     {
       id: "234",
-      name: "iPhone 5S",
+      name: "iPhone 4S",
       value: 400,
     },
     {
